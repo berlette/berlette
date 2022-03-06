@@ -20,11 +20,3 @@
 - [x] TypeScript and TSX
 
 </details>
-<details open>
-  <summary><strong>📫 How to reach me</strong></summary><br>
-
-  1. [berlette.com](https://berlette.com)
-  2. [twitter.com](https://twitter.com)
-  3. [discord.app](https://discord.gg)
-
-</details>
